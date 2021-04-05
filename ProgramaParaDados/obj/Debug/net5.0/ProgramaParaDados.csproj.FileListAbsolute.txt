@@ -1,0 +1,16 @@
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\bin\Debug\net5.0\ProgramaParaDados.exe
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\bin\Debug\net5.0\ProgramaParaDados.deps.json
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\bin\Debug\net5.0\ProgramaParaDados.runtimeconfig.json
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\bin\Debug\net5.0\ProgramaParaDados.runtimeconfig.dev.json
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\bin\Debug\net5.0\ProgramaParaDados.dll
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\bin\Debug\net5.0\ref\ProgramaParaDados.dll
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\bin\Debug\net5.0\ProgramaParaDados.pdb
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\obj\Debug\net5.0\ProgramaParaDados.csprojAssemblyReference.cache
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\obj\Debug\net5.0\ProgramaParaDados.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\obj\Debug\net5.0\ProgramaParaDados.AssemblyInfoInputs.cache
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\obj\Debug\net5.0\ProgramaParaDados.AssemblyInfo.cs
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\obj\Debug\net5.0\ProgramaParaDados.csproj.CoreCompileInputs.cache
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\obj\Debug\net5.0\ProgramaParaDados.dll
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\obj\Debug\net5.0\ref\ProgramaParaDados.dll
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\obj\Debug\net5.0\ProgramaParaDados.pdb
+E:\GitHub\Thuxs_2021.04.05.16.07_cs_ProgramaParaDados\ProgramaParaDados\obj\Debug\net5.0\ProgramaParaDados.genruntimeconfig.cache
